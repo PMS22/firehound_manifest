@@ -16,6 +16,14 @@
   <remote  name="FireHound"
            fetch="https://github.com/FireHound"
            revision="mm" />
+
+  <remote  name="tm"
+           fetch="git://github.com/TheMuppets"
+           revision="cm-13.0" />
+
+  <remote  name="fhd"
+           fetch="git://github.com/FireHound-devices"
+           revision="mm" />
            
   <remote  name="PMS22"
            fetch="https://github.com/PMS22"
