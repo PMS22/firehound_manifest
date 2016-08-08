@@ -13,7 +13,7 @@ To initialize your local repository for FireHound repositories, enter the below 
 
 Then to sync up:
 
-    repo sync -f --force-sync
+    repo sync -f -j4 --no-tags --no-clone-bundle --force-sync
     
 To Build:
 

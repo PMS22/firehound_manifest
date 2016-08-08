@@ -35,7 +35,7 @@
            sync-j="4" />
 
 <!-- BEGIN CYANOGENMOD -->
-  <project path="build" name="FireHound/android_build" remote="github" revision="mm">
+  <project path="build" name="FireHound/android_build" remote="github" revision="test">
     <copyfile src="core/root.mk" dest="Makefile" />
   </project>
   <project path="android" name="CyanogenMod/android" />
